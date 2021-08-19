@@ -1,0 +1,34 @@
+{
+  "name": "distribute-candies",
+  "version": "1.0.0",
+  "description": "Solution to the Distribute Candies problem written in JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyGamiMarques/Distribute-Candies.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Candies",
+    "Data",
+    "Distribute",
+    "LeetCode",
+    "Solution",
+    "Structures"
+  ],
+  "author": "Bradley Marques",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyGamiMarques/Distribute-Candies/issues"
+  },
+  "homepage": "https://github.com/bradleyGamiMarques/Distribute-Candies#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-esnext": "^4.1.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
